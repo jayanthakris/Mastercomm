@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_device_hub</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PhoneDirectory" transform="translate(-28.000000, -448.000000)">
+            <g id="ic_device_hub" transform="translate(25.000000, 448.000000)">
+                <g id="Icon-24px">
+                    <polygon id="Shape" points="0 0.827586207 23.1724138 0.827586207 23.1724138 24 0 24"></polygon>
+                    <path d="M17.2413793,12.9655172 L13.3793103,9.10344828 L13.3793103,6.03310345 C14.4993103,5.62758621 15.3103448,4.56551724 15.3103448,3.31034483 C15.3103448,1.70758621 14.0165517,0.413793103 12.4137931,0.413793103 C10.8110345,0.413793103 9.51724138,1.70758621 9.51724138,3.31034483 C9.51724138,4.56551724 10.3282759,5.62758621 11.4482759,6.03310345 L11.4482759,9.10344828 L7.5862069,12.9655172 L3.72413793,12.9655172 L3.72413793,17.7931034 L8.55172414,17.7931034 L8.55172414,14.8482759 L12.4137931,10.7931034 L16.2758621,14.8482759 L16.2758621,17.7931034 L21.1034483,17.7931034 L21.1034483,12.9655172 L17.2413793,12.9655172 L17.2413793,12.9655172 Z" id="Shape" fill="#AAA5A5"></path>
+                    <polygon id="Shape" points="0 0.827586207 23.1724138 0.827586207 23.1724138 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
